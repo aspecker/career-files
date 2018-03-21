@@ -2,7 +2,7 @@
 ## March 14th
 ### Adam Specker
 
-#### Linked In
+## Linked In
 ##### Profile
 * add a background photo consistent with brand and portfolio
 * change link to something more readable
